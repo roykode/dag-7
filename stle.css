@@ -1,0 +1,21 @@
+body {margin: 0;}
+
+.space{
+    height: 100vh;
+    background-image: url(space.jpg);
+    background: contain;
+    background-attachment: fixed; }
+
+.space2 {
+    height: 100vh;
+    background-image: url(space1.jpg);
+    background: contain;
+    background-position: center;
+    background-attachment: fixed; }
+
+.space3 { 
+    height: 100vh;
+    background-image: url(space2.jpg);
+    background: contain;
+    background-position: center;
+    background-attachment: fixed;}
